@@ -1,13 +1,13 @@
 ## Hi there 👋
 # 💫 About Me:
-Apering Embedded software Engineer<br>current learnings are c programming, c++, embedded c, Data structure and Algorithem,Microcontroller and Linux<br>most used language English , Kannada, Hindi<br>
-
-- 🌱 I’m currently learning **Embedded Software Concepts**
-- 👨‍💻 I’m currently working on project - [Steganography](https://1drv.ms/f/c/720e58ed66036b36/IgBW7J85KrCISIoAYQO_PcQVAXVNfMQ4O3LmKZeIfoGl-bY?e=OBv1aq)
-- 📄 Check out my resume here - [My Resume](https://1drv.ms/b/c/720e58ed66036b36/IQAz77n_huiXTYH9lu-3ljQCAda7uVEG68A0wv6IiFmidZI?e=YHdYfV)
+- 🎯 Aspiring **Embedded Software Engineer**
+- 🌱 Currently learning **C, C++, Embedded C, Data Structures & Algorithms, Microcontrollers, and Linux**
+- 👨‍💻 Working on - [Steganography](https://1drv.ms/f/c/720e58ed66036b36/IgBW7J85KrCISIoAYQO_PcQVAXVNfMQ4O3LmKZeIfoGl-bY?e=OBv1aq)
+- 📄 Check out my resume - [My Resume](https://1drv.ms/b/c/720e58ed66036b36/IQAz77n_huiXTYH9lu-3ljQCAda7uVEG68A0wv6IiFmidZI?e=YHdYfV)
 - 💻 All of my projects are available on - [GitHub](https://github.com/Gagandeep-2026)
 - 💼 Connect with me on - [LinkedIn Profile](https://www.linkedin.com/in/gagandeep-m-t-a30423356/)
 - 💬 Ask me about **Programming and Microcontroller Basics**
+- 🌐 Languages I speak - **English, Kannada, Hindi**
 - 📬 Reach out to me at - [Gmail](mailto:gagandeepmt08@gmail.com)
 
 
