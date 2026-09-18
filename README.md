@@ -1,5 +1,8 @@
 ## Hi there 👋
 # 💫 About Me:
+Passionate about hardware-software integration, bare-metal programming, and low-level system design.
+Focused on building efficient embedded solutions using C, microcontrollers, and Linux.
+
 - 🎯 Aspiring **Embedded Software Engineer**
 - 🌱 Currently learning **C, C++, Embedded C, Data Structures & Algorithms, Microcontrollers, and Linux**
 - 👨‍💻 Working on - [Steganography](https://1drv.ms/f/c/720e58ed66036b36/IgBW7J85KrCISIoAYQO_PcQVAXVNfMQ4O3LmKZeIfoGl-bY?e=OBv1aq)
