@@ -1,11 +1,10 @@
 ## Hi there 👋
 # 💫 About Me:
-Passionate about hardware-software integration, bare-metal programming, and low-level system design.
-Focused on building efficient embedded solutions using C, microcontrollers, and Linux.
+Aspiring Embedded Software Engineer with hands-on knowledge of C, Embedded C, C++, Linux, and microcontrollers. Interested in firmware development, hardware-software integration, and developing reliable embedded solutions for real-world applications.
 
 - 🎯 Aspiring **Embedded Software Engineer**
 - 🌱 Currently learning **C, C++, Embedded C, Data Structures & Algorithms, Microcontrollers, and Linux**
-- 👨‍💻 Working on project - []()
+- 👨‍💻 Working on project - [MP3 tag_reader](https://1drv.ms/f/c/720e58ed66036b36/IgAHM3vwf3s0Sp6yGr4K07_sAdvh5utrHnl2Hz-WQ9kOfok?e=Wb6kVo)
 - 🏆 TCS iON NQT Scorecard - [View My Scorecard](https://1drv.ms/b/c/720e58ed66036b36/IQAWX5MS_ZWiQozeqmAJ7E0DAVGupWsJX6iYS7egxgSNJXs?e=OYr5hw)
 - 📄 Check out my resume - [My Resume](https://1drv.ms/b/c/720e58ed66036b36/IQA_-00yHKyTRYFAhll19BPCAUuXwnd5cshm-WnvrFSg4gU?e=7Te3dr)
 - 💻 All of my projects are available on - [GitHub](https://github.com/Gagandeep-2026)
