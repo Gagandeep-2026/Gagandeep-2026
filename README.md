@@ -9,7 +9,7 @@ Aspiring Embedded Software Engineer with hands-on knowledge of C, Embedded C, C+
 - 📄 Check out my resume - [My Resume](https://1drv.ms/b/c/720e58ed66036b36/IQA_-00yHKyTRYFAhll19BPCAUuXwnd5cshm-WnvrFSg4gU?e=7Te3dr)
 - 💻 All of my projects are available on - [GitHub](https://github.com/Gagandeep-2026)
 - 💼 Connect with me on - [LinkedIn Profile](https://www.linkedin.com/in/gagandeep-m-t-a30423356/)
-- 📬 Reach out to me at - [Gmail](mailto:gagandeepmt08@gmail.com)
+- 📬 Reach out to me at - [Gmail](gagandeepmt08@gmail.com)
 - 💬 Ask me about **Programming and Microcontroller Basics**
 - 🌐 Languages I speak - **English, Kannada, Hindi**
 
