@@ -6,7 +6,7 @@ Aspiring Embedded Software Engineer with hands-on knowledge of C, Embedded C, C+
 - 🌱 Currently learning **C, C++, Embedded C, Data Structures & Algorithms, Microcontrollers, and Linux**
 - 👨‍💻 Working on project - [APC-Arbitrary Precision Calculator](https://1drv.ms/f/c/720e58ed66036b36/IgD0qrRRXes3SL5PrWpUWn5BASCASVtZD736OQcUojryXF8?e=U7B0hJ)
 - 🏆 TCS iON NQT Scorecard - [View My Scorecard](https://1drv.ms/b/c/720e58ed66036b36/IQAWX5MS_ZWiQozeqmAJ7E0DAVGupWsJX6iYS7egxgSNJXs?e=OYr5hw)
-- 📄 Check out my resume - [My Resume](https://1drv.ms/b/c/720e58ed66036b36/IQA_-00yHKyTRYFAhll19BPCAUuXwnd5cshm-WnvrFSg4gU?e=7Te3dr)
+- 📄 Check out my resume - [My Resume](https://1drv.ms/b/c/720e58ed66036b36/IQCTWwAVXUnURqR3Sz4hdh44AZwqaOwTrygbygcqdVGR65s?e=0SigTx)
 - 💻 All of my projects are available on - [GitHub](https://github.com/Gagandeep-2026)
 - 💼 Connect with me on - [LinkedIn Profile](https://www.linkedin.com/in/gagandeep-m-t-a30423356/)
 - 📬 Reach out to me at - [gagandeepmt08@gmail.com](gagandeepmt08@gmail.com)
